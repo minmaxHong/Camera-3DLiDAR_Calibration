@@ -1,13 +1,14 @@
 # Camera-LiDAR Sensor fusion
-Sensor fusion
+Sensor fusion for rubber cone
 
 ## Introduction
 Calibration is performed using the topics in the images on the left and right and the topics you receive from the lidar.
 
 However, sending an image topic is very expensive to calculate, so you should be careful.
 
-
 CMakeLists.txt is not uploaded separately because users can fill it out as needed.
+
+You also need a pt file to detect the rubber cone.
 
 ## Prerequisites
 It runs on Ubuntu 20.04, and the version below doesn't matter if you install the latest version.
