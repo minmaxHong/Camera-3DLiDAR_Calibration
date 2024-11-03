@@ -1,5 +1,9 @@
 # Camera-LiDAR Sensor fusion
 Sensor fusion for rubber cone
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e50b95db-2dc3-42c3-b49c-0175d75fc592" alt="image">
+</p>
+
 
 ## Introduction
 Calibration is performed using the topics in the images on the left and right and the topics you receive from the lidar.
