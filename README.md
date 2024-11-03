@@ -28,6 +28,7 @@ Before you use this code, make sure you have pcl and serial_node.cpp.
 roscore
 rosrun [catkin_ws/'your_directory'] lidar_cpp cone
 rosrun [catkin_ws/'your_directory'] web_cam_publish.py
+rosrun [catkin_ws/'your_directory'] multi_cam_4tracking.py
 rosrun [catkin_ws/'your_directory'] calibration.py
 ```
 
